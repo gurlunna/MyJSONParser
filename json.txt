@@ -1,0 +1,980 @@
+{
+   "result": {
+       "listName": "recommended",
+       "genreID": 7,
+       "numberOfTracks": 50,
+       "skip": 0,
+       "totalTracks": 392,
+       "tracks": [
+           {
+               "ID": 364031,
+               "artistID": 153014,
+               "artistName": "Christoffer Øien",
+               "thumbURL": "http://www12.nrk.no/magasin/upunkt/urort/bilder/scaled/364020_50_center.jpg",
+               "thumb2URL": "http://www12.nrk.no/magasin/upunkt/urort/bilder/scaled/364020_100_center.jpg",
+               "imageURL": "http://www12.nrk.no/magasin/upunkt/urort/bilder/scaled/364020_320_center.jpg",
+               "imageXLURL": "http://www12.nrk.no/magasin/upunkt/urort/bilder/scaled/364020_768_center.jpg",
+               "URL": "http://www.nrk.no/urort/1.0/track/listenapi/115184/1556169.mp3",
+               "title": "The Wizard",
+               "length": null,
+               "likes": 22,
+               "tags": [
+                   "Pop",
+                   "Blues",
+                   "Folk",
+                   "Singer/Songwriter"
+               ]
+           },
+           {
+               "ID": 366479,
+               "artistID": 155089,
+               "artistName": "Moonlight Rockets",
+               "thumbURL": "http://www12.nrk.no/magasin/upunkt/urort/bilder/scaled/366489_50_center.jpg",
+               "thumb2URL": "http://www12.nrk.no/magasin/upunkt/urort/bilder/scaled/366489_100_center.jpg",
+               "imageURL": "http://www12.nrk.no/magasin/upunkt/urort/bilder/scaled/366489_320_center.jpg",
+               "imageXLURL": "http://www12.nrk.no/magasin/upunkt/urort/bilder/scaled/366489_768_center.jpg",
+               "URL": "http://www.nrk.no/urort/1.0/track/listenapi/115184/1568750.mp3",
+               "title": "The Dream 2",
+               "length": null,
+               "likes": 35,
+               "tags": [
+                   "Pop",
+                   "Vokal",
+                   "Synth",
+                   "Trommer",
+                   "80'S",
+                   "90'S"
+               ]
+           },
+           {
+               "ID": 363485,
+               "artistID": 152543,
+               "artistName": "Billy Fy",
+               "thumbURL": "http://www12.nrk.no/magasin/upunkt/urort/bilder/scaled/363515_50_center.jpg",
+               "thumb2URL": "http://www12.nrk.no/magasin/upunkt/urort/bilder/scaled/363515_100_center.jpg",
+               "imageURL": "http://www12.nrk.no/magasin/upunkt/urort/bilder/scaled/363515_320_center.jpg",
+               "imageXLURL": "http://www12.nrk.no/magasin/upunkt/urort/bilder/scaled/363515_768_center.jpg",
+               "URL": "http://www.nrk.no/urort/1.0/track/listenapi/115184/1552375.mp3",
+               "title": "Cry Out",
+               "length": null,
+               "likes": 5,
+               "tags": [
+                   "Pop"
+               ]
+           },
+           {
+               "ID": 353035,
+               "artistID": 96290,
+               "artistName": "Bernard Briis Band",
+               "thumbURL": "http://www12.nrk.no/magasin/upunkt/urort/bilder/scaled/356902_50_center.jpg",
+               "thumb2URL": "http://www12.nrk.no/magasin/upunkt/urort/bilder/scaled/356902_100_center.jpg",
+               "imageURL": "http://www12.nrk.no/magasin/upunkt/urort/bilder/scaled/356902_320_center.jpg",
+               "imageXLURL": "http://www12.nrk.no/magasin/upunkt/urort/bilder/scaled/356902_768_center.jpg",
+               "URL": "http://www.nrk.no/urort/1.0/track/listenapi/115184/1490803.mp3",
+               "title": "Trains",
+               "length": null,
+               "likes": 78,
+               "tags": [
+                   "Rock",
+                   "Pop",
+                   "Melankoli",
+                   "Bernard Briis Band"
+               ]
+           },
+           {
+               "ID": 364833,
+               "artistID": 5593,
+               "artistName": "Anne Lene Hägglund",
+               "thumbURL": "http://www12.nrk.no/magasin/upunkt/urort/bilder/scaled/364815_50_center.jpg",
+               "thumb2URL": "http://www12.nrk.no/magasin/upunkt/urort/bilder/scaled/364815_100_center.jpg",
+               "imageURL": "http://www12.nrk.no/magasin/upunkt/urort/bilder/scaled/364815_320_center.jpg",
+               "imageXLURL": "http://www12.nrk.no/magasin/upunkt/urort/bilder/scaled/364815_768_center.jpg",
+               "URL": "http://www.nrk.no/urort/1.0/track/listenapi/115184/1560338.mp3",
+               "title": "Daylight",
+               "length": null,
+               "likes": 13,
+               "tags": [
+                   "Pop"
+               ]
+           },
+           {
+               "ID": 364581,
+               "artistID": 153480,
+               "artistName": "Karin Park",
+               "thumbURL": "http://www12.nrk.no/magasin/upunkt/urort/bilder/scaled/364582_50_center.jpg",
+               "thumb2URL": "http://www12.nrk.no/magasin/upunkt/urort/bilder/scaled/364582_100_center.jpg",
+               "imageURL": "http://www12.nrk.no/magasin/upunkt/urort/bilder/scaled/364582_320_center.jpg",
+               "imageXLURL": "http://www12.nrk.no/magasin/upunkt/urort/bilder/scaled/364582_768_center.jpg",
+               "URL": "http://www.nrk.no/urort/1.0/track/listenapi/115184/1559061.mp3",
+               "title": "Tiger Dreams",
+               "length": null,
+               "likes": 40,
+               "tags": [
+                   "Electronica",
+                   "Pop",
+                   "Karin Park"
+               ]
+           },
+           {
+               "ID": 362663,
+               "artistID": 104499,
+               "artistName": "Marianne Engebretsen",
+               "thumbURL": "http://www12.nrk.no/magasin/upunkt/urort/bilder/scaled/362149_50_center.jpg",
+               "thumb2URL": "http://www12.nrk.no/magasin/upunkt/urort/bilder/scaled/362149_100_center.jpg",
+               "imageURL": "http://www12.nrk.no/magasin/upunkt/urort/bilder/scaled/362149_320_center.jpg",
+               "imageXLURL": "http://www12.nrk.no/magasin/upunkt/urort/bilder/scaled/362149_768_center.jpg",
+               "URL": "http://www.nrk.no/urort/1.0/track/listenapi/115184/1546541.mp3",
+               "title": "Fighter",
+               "length": null,
+               "likes": 118,
+               "tags": [
+                   "Pop",
+                   "Soul/Rnb",
+                   "Norsk",
+                   "Oslo",
+                   "Synth",
+                   "Engelsk",
+                   "Band",
+                   "Artist",
+                   "Singel",
+                   "Marianne Engebretsen",
+                   "Fighter"
+               ]
+           },
+           {
+               "ID": 359575,
+               "artistID": 98430,
+               "artistName": "Emily Firing*",
+               "thumbURL": "http://www12.nrk.no/magasin/upunkt/urort/bilder/scaled/271663_50_center.jpg",
+               "thumb2URL": "http://www12.nrk.no/magasin/upunkt/urort/bilder/scaled/271663_100_center.jpg",
+               "imageURL": "http://www12.nrk.no/magasin/upunkt/urort/bilder/scaled/271663_320_center.jpg",
+               "imageXLURL": "http://www12.nrk.no/magasin/upunkt/urort/bilder/scaled/271663_768_center.jpg",
+               "URL": "http://www.nrk.no/urort/1.0/track/listenapi/115184/1526098.mp3",
+               "title": "So, I went cold",
+               "length": null,
+               "likes": 34,
+               "tags": [
+                   "Pop",
+                   "Alternativ",
+                   "Elektronica"
+               ]
+           },
+           {
+               "ID": 355886,
+               "artistID": 86966,
+               "artistName": "ANANA",
+               "thumbURL": "http://www12.nrk.no/magasin/upunkt/urort/bilder/scaled/367652_50_center.jpg",
+               "thumb2URL": "http://www12.nrk.no/magasin/upunkt/urort/bilder/scaled/367652_100_center.jpg",
+               "imageURL": "http://www12.nrk.no/magasin/upunkt/urort/bilder/scaled/367652_320_center.jpg",
+               "imageXLURL": "http://www12.nrk.no/magasin/upunkt/urort/bilder/scaled/367652_768_center.jpg",
+               "URL": "http://www.nrk.no/urort/1.0/track/listenapi/115184/1506090.mp3",
+               "title": "Angst",
+               "length": null,
+               "likes": 28,
+               "tags": [
+                   "Pop",
+                   "Melankolsk",
+                   "Angst",
+                   "Slow",
+                   "Anana",
+                   "Dypvannspop"
+               ]
+           },
+           {
+               "ID": 353317,
+               "artistID": 2890,
+               "artistName": "Johns epic",
+               "thumbURL": "http://www12.nrk.no/magasin/upunkt/urort/bilder/scaled/79601_50_center.jpg",
+               "thumb2URL": "http://www12.nrk.no/magasin/upunkt/urort/bilder/scaled/79601_100_center.jpg",
+               "imageURL": "http://www12.nrk.no/magasin/upunkt/urort/bilder/scaled/79601_320_center.jpg",
+               "imageXLURL": "http://www12.nrk.no/magasin/upunkt/urort/bilder/scaled/79601_768_center.jpg",
+               "URL": "http://www.nrk.no/urort/1.0/track/listenapi/115184/1492354.mp3",
+               "title": "Louise",
+               "length": null,
+               "likes": 7,
+               "tags": [
+                   "Pop",
+                   "Indie",
+                   "Akustisk",
+                   "Melankolsk",
+                   "Vise",
+                   "Folk",
+                   "Trist",
+                   "Alternativ Pop",
+                   "Melodiøst",
+                   "Singer / Songwriter"
+               ]
+           },
+           {
+               "ID": 350871,
+               "artistID": 38618,
+               "artistName": "Caroline Ailin",
+               "thumbURL": "http://www12.nrk.no/magasin/upunkt/urort/bilder/scaled/320723_50_center.jpg",
+               "thumb2URL": "http://www12.nrk.no/magasin/upunkt/urort/bilder/scaled/320723_100_center.jpg",
+               "imageURL": "http://www12.nrk.no/magasin/upunkt/urort/bilder/scaled/320723_320_center.jpg",
+               "imageXLURL": "http://www12.nrk.no/magasin/upunkt/urort/bilder/scaled/320723_768_center.jpg",
+               "URL": "http://www.nrk.no/urort/1.0/track/listenapi/115184/1477307.mp3",
+               "title": "Something Else",
+               "length": null,
+               "likes": 43,
+               "tags": [
+                   "Pop"
+               ]
+           },
+           {
+               "ID": 355290,
+               "artistID": 96451,
+               "artistName": "Snow On A Mountain",
+               "thumbURL": "http://www12.nrk.no/magasin/upunkt/urort/bilder/scaled/307918_50_center.jpg",
+               "thumb2URL": "http://www12.nrk.no/magasin/upunkt/urort/bilder/scaled/307918_100_center.jpg",
+               "imageURL": "http://www12.nrk.no/magasin/upunkt/urort/bilder/scaled/307918_320_center.jpg",
+               "imageXLURL": "http://www12.nrk.no/magasin/upunkt/urort/bilder/scaled/307918_768_center.jpg",
+               "URL": "http://www.nrk.no/urort/1.0/track/listenapi/115184/1502755.mp3",
+               "title": "East End Angel",
+               "length": null,
+               "likes": 2,
+               "tags": [
+                   "Pop",
+                   "Angel",
+                   "Eirik",
+                   "Snow",
+                   "Mountain",
+                   "Olav",
+                   "Snow On a Mountain",
+                   "Tronsmoen",
+                   "Husby",
+                   "East End Angel",
+                   "East End",
+                   "Lars Olav"
+               ]
+           },
+           {
+               "ID": 352460,
+               "artistID": 103764,
+               "artistName": "Greenwich Tea Party",
+               "thumbURL": "http://www12.nrk.no/magasin/upunkt/urort/bilder/scaled/350709_50_center.jpg",
+               "thumb2URL": "http://www12.nrk.no/magasin/upunkt/urort/bilder/scaled/350709_100_center.jpg",
+               "imageURL": "http://www12.nrk.no/magasin/upunkt/urort/bilder/scaled/350709_320_center.jpg",
+               "imageXLURL": "http://www12.nrk.no/magasin/upunkt/urort/bilder/scaled/350709_768_center.jpg",
+               "URL": "http://www.nrk.no/urort/1.0/track/listenapi/115184/1487019.mp3",
+               "title": "Apple Core",
+               "length": null,
+               "likes": 5,
+               "tags": [
+                   "Pop",
+                   "Folk"
+               ]
+           },
+           {
+               "ID": 361495,
+               "artistID": 86966,
+               "artistName": "ANANA",
+               "thumbURL": "http://www12.nrk.no/magasin/upunkt/urort/bilder/scaled/367652_50_center.jpg",
+               "thumb2URL": "http://www12.nrk.no/magasin/upunkt/urort/bilder/scaled/367652_100_center.jpg",
+               "imageURL": "http://www12.nrk.no/magasin/upunkt/urort/bilder/scaled/367652_320_center.jpg",
+               "imageXLURL": "http://www12.nrk.no/magasin/upunkt/urort/bilder/scaled/367652_768_center.jpg",
+               "URL": "http://www.nrk.no/urort/1.0/track/listenapi/115184/1539937.mp3",
+               "title": "Udefinert",
+               "length": null,
+               "likes": 28,
+               "tags": [
+                   "Pop",
+                   "Melakolsk",
+                   "Anana",
+                   "Dypvannspop",
+                   "Utøya",
+                   "Oslove"
+               ]
+           },
+           {
+               "ID": 353977,
+               "artistID": 105408,
+               "artistName": "STEREORIGHTS",
+               "thumbURL": "http://www12.nrk.no/magasin/upunkt/urort/bilder/scaled/365813_50_center.jpg",
+               "thumb2URL": "http://www12.nrk.no/magasin/upunkt/urort/bilder/scaled/365813_100_center.jpg",
+               "imageURL": "http://www12.nrk.no/magasin/upunkt/urort/bilder/scaled/365813_320_center.jpg",
+               "imageXLURL": "http://www12.nrk.no/magasin/upunkt/urort/bilder/scaled/365813_768_center.jpg",
+               "URL": "http://www.nrk.no/urort/1.0/track/listenapi/115184/1496321.mp3",
+               "title": "10.10.10.",
+               "length": null,
+               "likes": 11,
+               "tags": [
+                   "Pop",
+                   "Dansk"
+               ]
+           },
+           {
+               "ID": 353368,
+               "artistID": 142503,
+               "artistName": "Nils Horn",
+               "thumbURL": "http://www12.nrk.no/magasin/upunkt/urort/bilder/scaled/353355_50_center.jpg",
+               "thumb2URL": "http://www12.nrk.no/magasin/upunkt/urort/bilder/scaled/353355_100_center.jpg",
+               "imageURL": "http://www12.nrk.no/magasin/upunkt/urort/bilder/scaled/353355_320_center.jpg",
+               "imageXLURL": "http://www12.nrk.no/magasin/upunkt/urort/bilder/scaled/353355_768_center.jpg",
+               "URL": "http://www.nrk.no/urort/1.0/track/listenapi/115184/1492562.mp3",
+               "title": "This House",
+               "length": null,
+               "likes": 32,
+               "tags": [
+                   "Pop"
+               ]
+           },
+           {
+               "ID": 359860,
+               "artistID": 44202,
+               "artistName": "Lama-",
+               "thumbURL": "http://www12.nrk.no/magasin/upunkt/urort/bilder/scaled/359859_50_center.jpg",
+               "thumb2URL": "http://www12.nrk.no/magasin/upunkt/urort/bilder/scaled/359859_100_center.jpg",
+               "imageURL": "http://www12.nrk.no/magasin/upunkt/urort/bilder/scaled/359859_320_center.jpg",
+               "imageXLURL": "http://www12.nrk.no/magasin/upunkt/urort/bilder/scaled/359859_768_center.jpg",
+               "URL": "http://www.nrk.no/urort/1.0/track/listenapi/115184/1527645.mp3",
+               "title": "Flashes",
+               "length": null,
+               "likes": 5,
+               "tags": [
+                   "Rock",
+                   "Pop",
+                   "Indie",
+                   "Gitar"
+               ]
+           },
+           {
+               "ID": 340338,
+               "artistID": 125103,
+               "artistName": "Mikhael Paskalev",
+               "thumbURL": "http://www12.nrk.no/magasin/upunkt/urort/bilder/scaled/340282_50_center.jpg",
+               "thumb2URL": "http://www12.nrk.no/magasin/upunkt/urort/bilder/scaled/340282_100_center.jpg",
+               "imageURL": "http://www12.nrk.no/magasin/upunkt/urort/bilder/scaled/340282_320_center.jpg",
+               "imageXLURL": "http://www12.nrk.no/magasin/upunkt/urort/bilder/scaled/340282_768_center.jpg",
+               "URL": "http://www.nrk.no/urort/1.0/track/listenapi/115184/1398858.mp3",
+               "title": "I Spy - demo",
+               "length": null,
+               "likes": 25,
+               "tags": [
+                   "Rock",
+                   "Pop",
+                   "Indie",
+                   "Glad",
+                   "Sommer",
+                   "Hissig",
+                   "Alternativ-Country"
+               ]
+           },
+           {
+               "ID": 352459,
+               "artistID": 103764,
+               "artistName": "Greenwich Tea Party",
+               "thumbURL": "http://www12.nrk.no/magasin/upunkt/urort/bilder/scaled/350709_50_center.jpg",
+               "thumb2URL": "http://www12.nrk.no/magasin/upunkt/urort/bilder/scaled/350709_100_center.jpg",
+               "imageURL": "http://www12.nrk.no/magasin/upunkt/urort/bilder/scaled/350709_320_center.jpg",
+               "imageXLURL": "http://www12.nrk.no/magasin/upunkt/urort/bilder/scaled/350709_768_center.jpg",
+               "URL": "http://www.nrk.no/urort/1.0/track/listenapi/115184/1487018.mp3",
+               "title": "Lead Weight",
+               "length": null,
+               "likes": 8,
+               "tags": [
+                   "Pop",
+                   "Folk"
+               ]
+           },
+           {
+               "ID": 351566,
+               "artistID": 140917,
+               "artistName": "Ugle",
+               "thumbURL": "http://www12.nrk.no/magasin/upunkt/urort/bilder/scaled/351564_50_center.jpg",
+               "thumb2URL": "http://www12.nrk.no/magasin/upunkt/urort/bilder/scaled/351564_100_center.jpg",
+               "imageURL": "http://www12.nrk.no/magasin/upunkt/urort/bilder/scaled/351564_320_center.jpg",
+               "imageXLURL": "http://www12.nrk.no/magasin/upunkt/urort/bilder/scaled/351564_768_center.jpg",
+               "URL": "http://www.nrk.no/urort/1.0/track/listenapi/115184/1481981.mp3",
+               "title": "Castles In The Sky",
+               "length": null,
+               "likes": 88,
+               "tags": [
+                   "Annet",
+                   "Kvinnelig Vokal",
+                   "Trøndertun",
+                   "Jazz/Pop/Alternativ",
+                   "Post-Rock."
+               ]
+           },
+           {
+               "ID": 349968,
+               "artistID": 138958,
+               "artistName": "Martin Fjalsett",
+               "thumbURL": "http://www12.nrk.no/magasin/upunkt/urort/bilder/scaled/349954_50_center.jpg",
+               "thumb2URL": "http://www12.nrk.no/magasin/upunkt/urort/bilder/scaled/349954_100_center.jpg",
+               "imageURL": "http://www12.nrk.no/magasin/upunkt/urort/bilder/scaled/349954_320_center.jpg",
+               "imageXLURL": "http://www12.nrk.no/magasin/upunkt/urort/bilder/scaled/349954_768_center.jpg",
+               "URL": "http://www.nrk.no/urort/1.0/track/listenapi/115184/1471653.mp3",
+               "title": "Happier Than You",
+               "length": null,
+               "likes": 119,
+               "tags": [
+                   "Pop",
+                   "Norsk",
+                   "Singer/Songwriter",
+                   "Singer / Songwriter"
+               ]
+           },
+           {
+               "ID": 350708,
+               "artistID": 103764,
+               "artistName": "Greenwich Tea Party",
+               "thumbURL": "http://www12.nrk.no/magasin/upunkt/urort/bilder/scaled/350709_50_center.jpg",
+               "thumb2URL": "http://www12.nrk.no/magasin/upunkt/urort/bilder/scaled/350709_100_center.jpg",
+               "imageURL": "http://www12.nrk.no/magasin/upunkt/urort/bilder/scaled/350709_320_center.jpg",
+               "imageXLURL": "http://www12.nrk.no/magasin/upunkt/urort/bilder/scaled/350709_768_center.jpg",
+               "URL": "http://www.nrk.no/urort/1.0/track/listenapi/115184/1476247.mp3",
+               "title": "Bread And Honey",
+               "length": null,
+               "likes": 17,
+               "tags": [
+                   "Pop",
+                   "Folk"
+               ]
+           },
+           {
+               "ID": 357573,
+               "artistID": 98443,
+               "artistName": "Millions",
+               "thumbURL": "http://www12.nrk.no/magasin/upunkt/urort/bilder/scaled/357576_50_center.jpg",
+               "thumb2URL": "http://www12.nrk.no/magasin/upunkt/urort/bilder/scaled/357576_100_center.jpg",
+               "imageURL": "http://www12.nrk.no/magasin/upunkt/urort/bilder/scaled/357576_320_center.jpg",
+               "imageXLURL": "http://www12.nrk.no/magasin/upunkt/urort/bilder/scaled/357576_768_center.jpg",
+               "URL": "http://www.nrk.no/urort/1.0/track/listenapi/115184/1515393.mp3",
+               "title": "Bear In A Trap",
+               "length": null,
+               "likes": 155,
+               "tags": [
+                   "Pop",
+                   "Bergen",
+                   "Soul",
+                   "Elektronisk",
+                   "Postpunk",
+                   "Duo",
+                   "Hove",
+                   "Diy",
+                   "Motown",
+                   "Pu55yf00t1n",
+                   "Battledrum",
+                   "Poppsykoanalyse",
+                   "Hove-Festivalen"
+               ]
+           },
+           {
+               "ID": 356176,
+               "artistID": 86966,
+               "artistName": "ANANA",
+               "thumbURL": "http://www12.nrk.no/magasin/upunkt/urort/bilder/scaled/367652_50_center.jpg",
+               "thumb2URL": "http://www12.nrk.no/magasin/upunkt/urort/bilder/scaled/367652_100_center.jpg",
+               "imageURL": "http://www12.nrk.no/magasin/upunkt/urort/bilder/scaled/367652_320_center.jpg",
+               "imageXLURL": "http://www12.nrk.no/magasin/upunkt/urort/bilder/scaled/367652_768_center.jpg",
+               "URL": "http://www.nrk.no/urort/1.0/track/listenapi/115184/1507406.mp3",
+               "title": "Forsvinn",
+               "length": null,
+               "likes": 26,
+               "tags": [
+                   "Pop",
+                   "Alternativ",
+                   "Rask",
+                   "Anana",
+                   "Dypvannspop"
+               ]
+           },
+           {
+               "ID": 355956,
+               "artistID": 98779,
+               "artistName": "Charlotte Qvale",
+               "thumbURL": "http://www12.nrk.no/magasin/upunkt/urort/bilder/scaled/314597_50_center.jpg",
+               "thumb2URL": "http://www12.nrk.no/magasin/upunkt/urort/bilder/scaled/314597_100_center.jpg",
+               "imageURL": "http://www12.nrk.no/magasin/upunkt/urort/bilder/scaled/314597_320_center.jpg",
+               "imageXLURL": "http://www12.nrk.no/magasin/upunkt/urort/bilder/scaled/314597_768_center.jpg",
+               "URL": "http://www.nrk.no/urort/1.0/track/listenapi/115184/1506415.mp3",
+               "title": "Kiss The Girls",
+               "length": null,
+               "likes": 664,
+               "tags": [
+                   "Pop"
+               ]
+           },
+           {
+               "ID": 352457,
+               "artistID": 103764,
+               "artistName": "Greenwich Tea Party",
+               "thumbURL": "http://www12.nrk.no/magasin/upunkt/urort/bilder/scaled/350709_50_center.jpg",
+               "thumb2URL": "http://www12.nrk.no/magasin/upunkt/urort/bilder/scaled/350709_100_center.jpg",
+               "imageURL": "http://www12.nrk.no/magasin/upunkt/urort/bilder/scaled/350709_320_center.jpg",
+               "imageXLURL": "http://www12.nrk.no/magasin/upunkt/urort/bilder/scaled/350709_768_center.jpg",
+               "URL": "http://www.nrk.no/urort/1.0/track/listenapi/115184/1487014.mp3",
+               "title": "Softly Come and Softly Go",
+               "length": null,
+               "likes": 12,
+               "tags": [
+                   "Pop",
+                   "Folk"
+               ]
+           },
+           {
+               "ID": 349830,
+               "artistID": 79337,
+               "artistName": "Babe Rawlins",
+               "thumbURL": "http://www12.nrk.no/magasin/upunkt/urort/bilder/scaled/349832_50_center.jpg",
+               "thumb2URL": "http://www12.nrk.no/magasin/upunkt/urort/bilder/scaled/349832_100_center.jpg",
+               "imageURL": "http://www12.nrk.no/magasin/upunkt/urort/bilder/scaled/349832_320_center.jpg",
+               "imageXLURL": "http://www12.nrk.no/magasin/upunkt/urort/bilder/scaled/349832_768_center.jpg",
+               "URL": "http://www.nrk.no/urort/1.0/track/listenapi/115184/1470520.mp3",
+               "title": "Sweet Lie",
+               "length": null,
+               "likes": 28,
+               "tags": [
+                   "Rock",
+                   "Pop",
+                   "Bergen",
+                   "Urørt",
+                   "Babe",
+                   "Rawlins",
+                   "Babe Rawlins",
+                   "Sweet Lie"
+               ]
+           },
+           {
+               "ID": 345077,
+               "artistID": 125409,
+               "artistName": "Twinklehead",
+               "thumbURL": "http://www12.nrk.no/magasin/upunkt/urort/bilder/scaled/340719_50_center.jpg",
+               "thumb2URL": "http://www12.nrk.no/magasin/upunkt/urort/bilder/scaled/340719_100_center.jpg",
+               "imageURL": "http://www12.nrk.no/magasin/upunkt/urort/bilder/scaled/340719_320_center.jpg",
+               "imageXLURL": "http://www12.nrk.no/magasin/upunkt/urort/bilder/scaled/340719_768_center.jpg",
+               "URL": "http://www.nrk.no/urort/1.0/track/listenapi/115184/1439171.mp3",
+               "title": "jesters tune",
+               "length": null,
+               "likes": 56,
+               "tags": [
+                   "Pop",
+                   "Indiepop",
+                   "Alternativ"
+               ]
+           },
+           {
+               "ID": 345481,
+               "artistID": 106754,
+               "artistName": "Anette Askvik",
+               "thumbURL": "http://www12.nrk.no/magasin/upunkt/urort/bilder/scaled/345482_50_center.jpg",
+               "thumb2URL": "http://www12.nrk.no/magasin/upunkt/urort/bilder/scaled/345482_100_center.jpg",
+               "imageURL": "http://www12.nrk.no/magasin/upunkt/urort/bilder/scaled/345482_320_center.jpg",
+               "imageXLURL": "http://www12.nrk.no/magasin/upunkt/urort/bilder/scaled/345482_768_center.jpg",
+               "URL": "http://www.nrk.no/urort/1.0/track/listenapi/115184/1442961.mp3",
+               "title": "Liberty",
+               "length": null,
+               "likes": 48,
+               "tags": [
+                   "Jazz",
+                   "Pop",
+                   "Vokal",
+                   "Fengende",
+                   "Melankolsk",
+                   "Elektronisk",
+                   "Synth",
+                   "Piano",
+                   "Elektronika",
+                   "Enkel",
+                   "Saksofon"
+               ]
+           },
+           {
+               "ID": 351090,
+               "artistID": 53380,
+               "artistName": "Miriam Vaga",
+               "thumbURL": "http://www12.nrk.no/magasin/upunkt/urort/bilder/scaled/351083_50_center.jpg",
+               "thumb2URL": "http://www12.nrk.no/magasin/upunkt/urort/bilder/scaled/351083_100_center.jpg",
+               "imageURL": "http://www12.nrk.no/magasin/upunkt/urort/bilder/scaled/351083_320_center.jpg",
+               "imageXLURL": "http://www12.nrk.no/magasin/upunkt/urort/bilder/scaled/351083_768_center.jpg",
+               "URL": "http://www.nrk.no/urort/1.0/track/listenapi/115184/1478740.mp3",
+               "title": "FearlessLittleGirl",
+               "length": null,
+               "likes": 33,
+               "tags": [
+                   "Pop",
+                   "Melankolsk Pop"
+               ]
+           },
+           {
+               "ID": 335700,
+               "artistID": 105602,
+               "artistName": "Ellie Isla",
+               "thumbURL": "http://www12.nrk.no/magasin/upunkt/urort/bilder/scaled/320054_50_center.jpg",
+               "thumb2URL": "http://www12.nrk.no/magasin/upunkt/urort/bilder/scaled/320054_100_center.jpg",
+               "imageURL": "http://www12.nrk.no/magasin/upunkt/urort/bilder/scaled/320054_320_center.jpg",
+               "imageXLURL": "http://www12.nrk.no/magasin/upunkt/urort/bilder/scaled/320054_768_center.jpg",
+               "URL": "http://www.nrk.no/urort/1.0/track/listenapi/115184/1337648.mp3",
+               "title": "My Little Bird",
+               "length": null,
+               "likes": 38,
+               "tags": [
+                   "Pop",
+                   "Harmonier",
+                   "Harmonisk",
+                   "Flerstemt",
+                   "Jenteband"
+               ]
+           },
+           {
+               "ID": 346427,
+               "artistID": 86966,
+               "artistName": "ANANA",
+               "thumbURL": "http://www12.nrk.no/magasin/upunkt/urort/bilder/scaled/367652_50_center.jpg",
+               "thumb2URL": "http://www12.nrk.no/magasin/upunkt/urort/bilder/scaled/367652_100_center.jpg",
+               "imageURL": "http://www12.nrk.no/magasin/upunkt/urort/bilder/scaled/367652_320_center.jpg",
+               "imageXLURL": "http://www12.nrk.no/magasin/upunkt/urort/bilder/scaled/367652_768_center.jpg",
+               "URL": "http://www.nrk.no/urort/1.0/track/listenapi/115184/1448573.mp3",
+               "title": "Train Ride",
+               "length": null,
+               "likes": 41,
+               "tags": [
+                   "Pop",
+                   "Anana",
+                   "Dypvannspop"
+               ]
+           },
+           {
+               "ID": 344809,
+               "artistID": 103352,
+               "artistName": "Andrea Dahle",
+               "thumbURL": "http://www12.nrk.no/magasin/upunkt/urort/bilder/scaled/342370_50_center.jpg",
+               "thumb2URL": "http://www12.nrk.no/magasin/upunkt/urort/bilder/scaled/342370_100_center.jpg",
+               "imageURL": "http://www12.nrk.no/magasin/upunkt/urort/bilder/scaled/342370_320_center.jpg",
+               "imageXLURL": "http://www12.nrk.no/magasin/upunkt/urort/bilder/scaled/342370_768_center.jpg",
+               "URL": "http://www.nrk.no/urort/1.0/track/listenapi/115184/1436810.mp3",
+               "title": "Play for me",
+               "length": null,
+               "likes": 426,
+               "tags": [
+                   "Pop"
+               ]
+           },
+           {
+               "ID": 343202,
+               "artistID": 10762,
+               "artistName": "martyn and the chimp",
+               "thumbURL": "http://www12.nrk.no/magasin/upunkt/urort/bilder/scaled/343206_50_center.jpg",
+               "thumb2URL": "http://www12.nrk.no/magasin/upunkt/urort/bilder/scaled/343206_100_center.jpg",
+               "imageURL": "http://www12.nrk.no/magasin/upunkt/urort/bilder/scaled/343206_320_center.jpg",
+               "imageXLURL": "http://www12.nrk.no/magasin/upunkt/urort/bilder/scaled/343206_768_center.jpg",
+               "URL": "http://www.nrk.no/urort/1.0/track/listenapi/115184/1426685.mp3",
+               "title": "You Live",
+               "length": null,
+               "likes": 11,
+               "tags": [
+                   "Annet",
+                   "Livet",
+                   "Duo",
+                   "Magi"
+               ]
+           },
+           {
+               "ID": 342582,
+               "artistID": 105408,
+               "artistName": "STEREORIGHTS",
+               "thumbURL": "http://www12.nrk.no/magasin/upunkt/urort/bilder/scaled/365813_50_center.jpg",
+               "thumb2URL": "http://www12.nrk.no/magasin/upunkt/urort/bilder/scaled/365813_100_center.jpg",
+               "imageURL": "http://www12.nrk.no/magasin/upunkt/urort/bilder/scaled/365813_320_center.jpg",
+               "imageXLURL": "http://www12.nrk.no/magasin/upunkt/urort/bilder/scaled/365813_768_center.jpg",
+               "URL": "http://www.nrk.no/urort/1.0/track/listenapi/115184/1419897.mp3",
+               "title": "With You [MASTERED 2011 VERSJON]",
+               "length": null,
+               "likes": 14,
+               "tags": [
+                   "Pop",
+                   "Funk",
+                   "Club"
+               ]
+           },
+           {
+               "ID": 335697,
+               "artistID": 105602,
+               "artistName": "Ellie Isla",
+               "thumbURL": "http://www12.nrk.no/magasin/upunkt/urort/bilder/scaled/320054_50_center.jpg",
+               "thumb2URL": "http://www12.nrk.no/magasin/upunkt/urort/bilder/scaled/320054_100_center.jpg",
+               "imageURL": "http://www12.nrk.no/magasin/upunkt/urort/bilder/scaled/320054_320_center.jpg",
+               "imageXLURL": "http://www12.nrk.no/magasin/upunkt/urort/bilder/scaled/320054_768_center.jpg",
+               "URL": "http://www.nrk.no/urort/1.0/track/listenapi/115184/1337643.mp3",
+               "title": "Mr. Oh",
+               "length": null,
+               "likes": 49,
+               "tags": [
+                   "Pop",
+                   "Harmonier",
+                   "Flerstemt",
+                   "Jenteband"
+               ]
+           },
+           {
+               "ID": 339311,
+               "artistID": 115311,
+               "artistName": "Peter Estdahl",
+               "thumbURL": "http://www12.nrk.no/magasin/upunkt/urort/bilder/scaled/365850_50_center.jpg",
+               "thumb2URL": "http://www12.nrk.no/magasin/upunkt/urort/bilder/scaled/365850_100_center.jpg",
+               "imageURL": "http://www12.nrk.no/magasin/upunkt/urort/bilder/scaled/365850_320_center.jpg",
+               "imageXLURL": "http://www12.nrk.no/magasin/upunkt/urort/bilder/scaled/365850_768_center.jpg",
+               "URL": "http://www.nrk.no/urort/1.0/track/listenapi/115184/1384124.mp3",
+               "title": "New Life",
+               "length": null,
+               "likes": 15,
+               "tags": [
+                   "Pop"
+               ]
+           },
+           {
+               "ID": 335528,
+               "artistID": 105408,
+               "artistName": "STEREORIGHTS",
+               "thumbURL": "http://www12.nrk.no/magasin/upunkt/urort/bilder/scaled/365813_50_center.jpg",
+               "thumb2URL": "http://www12.nrk.no/magasin/upunkt/urort/bilder/scaled/365813_100_center.jpg",
+               "imageURL": "http://www12.nrk.no/magasin/upunkt/urort/bilder/scaled/365813_320_center.jpg",
+               "imageXLURL": "http://www12.nrk.no/magasin/upunkt/urort/bilder/scaled/365813_768_center.jpg",
+               "URL": "http://www.nrk.no/urort/1.0/track/listenapi/115184/1336592.mp3",
+               "title": "With You",
+               "length": null,
+               "likes": 47,
+               "tags": [
+                   "Pop",
+                   "Funk",
+                   "Club"
+               ]
+           },
+           {
+               "ID": 335714,
+               "artistID": 86966,
+               "artistName": "ANANA",
+               "thumbURL": "http://www12.nrk.no/magasin/upunkt/urort/bilder/scaled/367652_50_center.jpg",
+               "thumb2URL": "http://www12.nrk.no/magasin/upunkt/urort/bilder/scaled/367652_100_center.jpg",
+               "imageURL": "http://www12.nrk.no/magasin/upunkt/urort/bilder/scaled/367652_320_center.jpg",
+               "imageXLURL": "http://www12.nrk.no/magasin/upunkt/urort/bilder/scaled/367652_768_center.jpg",
+               "URL": "http://www.nrk.no/urort/1.0/track/listenapi/115184/1337731.mp3",
+               "title": "Tredjegradsforbrenning",
+               "length": null,
+               "likes": 166,
+               "tags": [
+                   "Pop",
+                   "Rot",
+                   "Anana",
+                   "Dypvannspop"
+               ]
+           },
+           {
+               "ID": 335696,
+               "artistID": 105602,
+               "artistName": "Ellie Isla",
+               "thumbURL": "http://www12.nrk.no/magasin/upunkt/urort/bilder/scaled/320054_50_center.jpg",
+               "thumb2URL": "http://www12.nrk.no/magasin/upunkt/urort/bilder/scaled/320054_100_center.jpg",
+               "imageURL": "http://www12.nrk.no/magasin/upunkt/urort/bilder/scaled/320054_320_center.jpg",
+               "imageXLURL": "http://www12.nrk.no/magasin/upunkt/urort/bilder/scaled/320054_768_center.jpg",
+               "URL": "http://www.nrk.no/urort/1.0/track/listenapi/115184/1337642.mp3",
+               "title": "Déjà Vu",
+               "length": null,
+               "likes": 54,
+               "tags": [
+                   "Pop",
+                   "Alternativ",
+                   "Akkustisk",
+                   "Harmonier",
+                   "Harmonisk",
+                   "Flerstemt",
+                   "Jenteband",
+                   "Jentevokal"
+               ]
+           },
+           {
+               "ID": 336057,
+               "artistID": 98443,
+               "artistName": "Millions",
+               "thumbURL": "http://www12.nrk.no/magasin/upunkt/urort/bilder/scaled/357576_50_center.jpg",
+               "thumb2URL": "http://www12.nrk.no/magasin/upunkt/urort/bilder/scaled/357576_100_center.jpg",
+               "imageURL": "http://www12.nrk.no/magasin/upunkt/urort/bilder/scaled/357576_320_center.jpg",
+               "imageXLURL": "http://www12.nrk.no/magasin/upunkt/urort/bilder/scaled/357576_768_center.jpg",
+               "URL": "http://www.nrk.no/urort/1.0/track/listenapi/115184/1339793.mp3",
+               "title": "Battledrum",
+               "length": null,
+               "likes": 224,
+               "tags": [
+                   "Pop",
+                   "Bergen",
+                   "Duo",
+                   "Diy",
+                   "Pussyfooten",
+                   "Pussyfootin",
+                   "Pu55yfoot1n",
+                   "Pussyf00t1n",
+                   "Pu55yfootin",
+                   "Pu55yfooting",
+                   "Pussyf00tin",
+                   "Pu55yf00tin",
+                   "Millions"
+               ]
+           },
+           {
+               "ID": 330088,
+               "artistID": 115311,
+               "artistName": "Peter Estdahl",
+               "thumbURL": "http://www12.nrk.no/magasin/upunkt/urort/bilder/scaled/365850_50_center.jpg",
+               "thumb2URL": "http://www12.nrk.no/magasin/upunkt/urort/bilder/scaled/365850_100_center.jpg",
+               "imageURL": "http://www12.nrk.no/magasin/upunkt/urort/bilder/scaled/365850_320_center.jpg",
+               "imageXLURL": "http://www12.nrk.no/magasin/upunkt/urort/bilder/scaled/365850_768_center.jpg",
+               "URL": "http://www.nrk.no/urort/1.0/track/listenapi/115184/1300579.mp3",
+               "title": "We Can Be The Ones",
+               "length": null,
+               "likes": 81,
+               "tags": [
+                   "Pop",
+                   "Alternativ"
+               ]
+           },
+           {
+               "ID": 318804,
+               "artistID": 97965,
+               "artistName": "Machine Birds",
+               "thumbURL": "http://www12.nrk.no/magasin/upunkt/urort/bilder/scaled/337929_50_center.jpg",
+               "thumb2URL": "http://www12.nrk.no/magasin/upunkt/urort/bilder/scaled/337929_100_center.jpg",
+               "imageURL": "http://www12.nrk.no/magasin/upunkt/urort/bilder/scaled/337929_320_center.jpg",
+               "imageXLURL": "http://www12.nrk.no/magasin/upunkt/urort/bilder/scaled/337929_768_center.jpg",
+               "URL": "http://www.nrk.no/urort/1.0/track/listenapi/115184/1177703.mp3",
+               "title": "Over and Over",
+               "length": null,
+               "likes": 141,
+               "tags": [
+                   "Pop",
+                   "Eksperimentell",
+                   "Elektronika",
+                   "Duo"
+               ]
+           },
+           {
+               "ID": 312954,
+               "artistID": 102260,
+               "artistName": "Tenderleaves",
+               "thumbURL": "http://www12.nrk.no/magasin/upunkt/urort/bilder/scaled/367209_50_center.jpg",
+               "thumb2URL": "http://www12.nrk.no/magasin/upunkt/urort/bilder/scaled/367209_100_center.jpg",
+               "imageURL": "http://www12.nrk.no/magasin/upunkt/urort/bilder/scaled/367209_320_center.jpg",
+               "imageXLURL": "http://www12.nrk.no/magasin/upunkt/urort/bilder/scaled/367209_768_center.jpg",
+               "URL": "http://www.nrk.no/urort/1.0/track/listenapi/115184/1142031.mp3",
+               "title": "Cathrine",
+               "length": null,
+               "likes": 47,
+               "tags": [
+                   "Pop",
+                   "Soul",
+                   "Folk",
+                   "Retropop"
+               ]
+           },
+           {
+               "ID": 323281,
+               "artistID": 1442,
+               "artistName": "Herr Nilsson",
+               "thumbURL": "http://www12.nrk.no/magasin/upunkt/urort/bilder/scaled/206086_50_center.jpg",
+               "thumb2URL": "http://www12.nrk.no/magasin/upunkt/urort/bilder/scaled/206086_100_center.jpg",
+               "imageURL": "http://www12.nrk.no/magasin/upunkt/urort/bilder/scaled/206086_320_center.jpg",
+               "imageXLURL": "http://www12.nrk.no/magasin/upunkt/urort/bilder/scaled/206086_768_center.jpg",
+               "URL": "http://www.nrk.no/urort/1.0/track/listenapi/115184/1206415.mp3",
+               "title": "Resistance",
+               "length": null,
+               "likes": 8,
+               "tags": [
+                   "Pop",
+                   "Synth",
+                   "Jogging"
+               ]
+           },
+           {
+               "ID": 318792,
+               "artistID": 97965,
+               "artistName": "Machine Birds",
+               "thumbURL": "http://www12.nrk.no/magasin/upunkt/urort/bilder/scaled/337929_50_center.jpg",
+               "thumb2URL": "http://www12.nrk.no/magasin/upunkt/urort/bilder/scaled/337929_100_center.jpg",
+               "imageURL": "http://www12.nrk.no/magasin/upunkt/urort/bilder/scaled/337929_320_center.jpg",
+               "imageXLURL": "http://www12.nrk.no/magasin/upunkt/urort/bilder/scaled/337929_768_center.jpg",
+               "URL": "http://www.nrk.no/urort/1.0/track/listenapi/115184/1177680.mp3",
+               "title": "One last try",
+               "length": null,
+               "likes": 1255,
+               "tags": [
+                   "Electronica",
+                   "Pop",
+                   "Eksperimentell",
+                   "Elektronika",
+                   "Duo"
+               ]
+           },
+           {
+               "ID": 311621,
+               "artistID": 102846,
+               "artistName": "ADOBE HOUSES",
+               "thumbURL": "http://www12.nrk.no/magasin/upunkt/urort/bilder/scaled/304039_50_center.jpg",
+               "thumb2URL": "http://www12.nrk.no/magasin/upunkt/urort/bilder/scaled/304039_100_center.jpg",
+               "imageURL": "http://www12.nrk.no/magasin/upunkt/urort/bilder/scaled/304039_320_center.jpg",
+               "imageXLURL": "http://www12.nrk.no/magasin/upunkt/urort/bilder/scaled/304039_768_center.jpg",
+               "URL": "http://www.nrk.no/urort/1.0/track/listenapi/115184/1136985.mp3",
+               "title": "FEDORA (DEMO)",
+               "length": null,
+               "likes": 90,
+               "tags": [
+                   "Pop",
+                   "Amerikansk Indie Med Fokus På Vokal. Musikken Har Blitt Beskrevet Av Andre Som En Krysning Mellom Klassisk Vestkyst-Rock og Moderne Indie",
+                   "Hvor Crosby",
+                   "Stills & Nash Inviterer Grizzly Bear På Nachspiel For Å Synge Hymner Til Soloppgangen."
+               ]
+           },
+           {
+               "ID": 318476,
+               "artistID": 35132,
+               "artistName": "post",
+               "thumbURL": "http://www12.nrk.no/magasin/upunkt/urort/bilder/scaled/318475_50_center.jpg",
+               "thumb2URL": "http://www12.nrk.no/magasin/upunkt/urort/bilder/scaled/318475_100_center.jpg",
+               "imageURL": "http://www12.nrk.no/magasin/upunkt/urort/bilder/scaled/318475_320_center.jpg",
+               "imageXLURL": "http://www12.nrk.no/magasin/upunkt/urort/bilder/scaled/318475_768_center.jpg",
+               "URL": "http://www.nrk.no/urort/1.0/track/listenapi/115184/1175535.mp3",
+               "title": "Broken",
+               "length": null,
+               "likes": 13,
+               "tags": [
+                   "Pop"
+               ]
+           },
+           {
+               "ID": 311063,
+               "artistID": 98779,
+               "artistName": "Charlotte Qvale",
+               "thumbURL": "http://www12.nrk.no/magasin/upunkt/urort/bilder/scaled/314597_50_center.jpg",
+               "thumb2URL": "http://www12.nrk.no/magasin/upunkt/urort/bilder/scaled/314597_100_center.jpg",
+               "imageURL": "http://www12.nrk.no/magasin/upunkt/urort/bilder/scaled/314597_320_center.jpg",
+               "imageXLURL": "http://www12.nrk.no/magasin/upunkt/urort/bilder/scaled/314597_768_center.jpg",
+               "URL": "http://www.nrk.no/urort/1.0/track/listenapi/115184/1134813.mp3",
+               "title": "The Wheel",
+               "length": null,
+               "likes": 1115,
+               "tags": [
+                   "Pop"
+               ]
+           },
+           {
+               "ID": 316674,
+               "artistID": 41599,
+               "artistName": "The Royalties",
+               "thumbURL": "http://www12.nrk.no/magasin/upunkt/urort/bilder/scaled/316672_50_center.jpg",
+               "thumb2URL": "http://www12.nrk.no/magasin/upunkt/urort/bilder/scaled/316672_100_center.jpg",
+               "imageURL": "http://www12.nrk.no/magasin/upunkt/urort/bilder/scaled/316672_320_center.jpg",
+               "imageXLURL": "http://www12.nrk.no/magasin/upunkt/urort/bilder/scaled/316672_768_center.jpg",
+               "URL": "http://www.nrk.no/urort/1.0/track/listenapi/115184/1157226.mp3",
+               "title": "Castles In The Air",
+               "length": null,
+               "likes": 9,
+               "tags": [
+                   "Pop",
+                   "Bergen"
+               ]
+           }
+       ]
+   },
+   "error": null
+}
+
