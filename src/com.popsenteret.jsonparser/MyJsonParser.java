@@ -1,24 +1,22 @@
 package com.popsenteret.jsonparser;
 
 import com.google.gson.Gson;
+
 import java.io.*;
 import java.util.List;
 
 public class MyJsonParser {
 
     public static void main(String[] args) throws IOException {
-        String[] infiles = getInfileNames();
-        for (int i = 0; i < infiles.length; i++) {
-            String json = readJSONFromFile(infiles[i]);
-            Data data = new Gson().fromJson(json, Data.class);
+        String json = readJSONFromFile("urortJsonFile.txt");
+        Data data = new Gson().fromJson(json, Data.class);
 
-            List<Track> tracks = data.getResult().getTracks();
-            String outfileName = "test" + i + ".bat";
-            writeBatFile(outfileName, tracks);
-        }
+        List<Track> tracks = data.getResult().getTracks();
+        String outfileName = "makeLabels.bat";
+        writeBatFile(outfileName, tracks);
     }
 
-    //  Gets all the inputfiles from JSONfiles.txt
+    /* //  Gets all the inputfiles from JSONfiles.txt  - use if you want multiple infiles
     public static String[] getInfileNames() throws IOException {
         BufferedReader fr = new BufferedReader(new FileReader("JSONfiles.txt"));
         StringBuffer stringBuffer = new StringBuffer();
@@ -29,7 +27,7 @@ public class MyJsonParser {
         fr.close();
         String tmp = stringBuffer.toString();
         return tmp.split(",");
-    }
+    }       */
 
     // Reads input from file to String
     public static String readJSONFromFile(String infileName) throws IOException {
@@ -47,15 +45,20 @@ public class MyJsonParser {
     // Writes the tracks to the outputfile
     public static void writeBatFile(String outfileName, List<Track> tracks) throws IOException {
         PrintWriter printWriter = new PrintWriter(new File(outfileName));
-        String script1 = "convert -background black -density 100 -fill white  -font \"C:\\Windows\\Fonts\\alternategothic2_bt.ttf\" -size 600x60 -pointsize 32 label:\"";
+        String script1 = "convert -background black -gravity Center -density 100 -fill white  -font \"C:\\Windows\\Fonts\\alternategothic2_bt.ttf\" -size 600x60 label:\"";
         String script2 = "\" label.gif";
         String script3 = "composite -gravity South label.gif";
         int i = 1;
+        printWriter.println("chcp 65001 &");
         for (Track t : tracks) {
+            String artist = t.getArtistName().replace(" ", "_");
+            artist = artist.replace("&", "and");
             printWriter.println(script1 + t.getArtistName().toUpperCase() + " - " + t.getTitle() + script2);
-            printWriter.println(script3 + " " + t.getImageXLURL() + " " + t.getImageName(t.getImageXLURL()) + " " + t.getImageNameWithText(t.getImageXLURL()));
+            printWriter.println(script3 + " " + ("FraNRK/" + artist + "_" + t.getImageName(t.getImageXLURL())) + " " + "TilPopit/" + artist + "_" + t.getImageNameWithText(t.getImageXLURL()));
             i++;
         }
+        printWriter.println("@DEL /S /Q /F \"FraNRK\\*.*\"");
+        printWriter.println("& chcp 850");
         printWriter.close();
     }
 }
