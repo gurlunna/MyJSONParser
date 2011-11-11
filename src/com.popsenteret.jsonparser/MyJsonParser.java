@@ -53,8 +53,13 @@ public class MyJsonParser {
         for (Track t : tracks) {
             String artist = t.getArtistName().replace(" ", "_");
             artist = artist.replace("&", "and");
+            artist = artist.replace(".", "");
+            String title = t.getTitle().replace(" ", "_");
+            title = title.replace("&", "and");
+            title = title.replace("/", "_");
+            title = title.replace("\\", "_");
             printWriter.println(script1 + t.getArtistName().toUpperCase() + " - " + t.getTitle() + script2);
-            printWriter.println(script3 + " " + ("FraNRK/" + artist + "_" + t.getImageName(t.getImageXLURL())) + " " + "TilPopit/" + artist + "_" + t.getImageNameWithText(t.getImageXLURL()));
+            printWriter.println(script3 + " " + ("FraNRK/" + artist + "_" + t.getImageName(t.getImageXLURL())) + " " + "TilPopit/" + artist + "-" + title + "_" + t.getImageNameWithText(t.getImageXLURL()));
             i++;
         }
         printWriter.println("@DEL /S /Q /F \"FraNRK\\*.*\"");
